@@ -8,7 +8,7 @@ I'm a student at HEAJ in DWT 🏴‍☠️
 
 ## Networks
 
-[![Instagram](https://img.shields.io/badge/Instagram-DB206E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SiraeDWT)
+[![Instagram](https://img.shields.io/badge/Instagram-DB206E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Sirae.DWT)
 [![Twitter](https://img.shields.io/badge/Twitter-1c98eb?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SiraeDWT)
 [![Github](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiraeDWT)
 
