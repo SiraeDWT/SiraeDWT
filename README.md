@@ -26,6 +26,8 @@ I'm a student at HEAJ in DWT 🏴‍☠️
 [![Powershell](https://img.shields.io/badge/Powershell-%23121011.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://en.wikipedia.org/wiki/Windows_PowerShell)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Figma](https://img.shields.io/badge/Figma-9d56f7.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Photoshop](https://img.shields.io/badge/Photoshop-31a8ff.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.google.com/search?client=firefox-b-d&q=photoshop)
+[![Insomnia](https://img.shields.io/badge/Insomnia-5849b9?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 [![FileZilla](https://img.shields.io/badge/FileZilla-b20000.svg?style=for-the-badge&logo=filezilla&logoColor=white)](https://filezilla-project.org/)
 [![OVH](https://img.shields.io/badge/OVH-264670.svg?style=for-the-badge&logo=ovh&logoColor=white)](https://www.ovhcloud.com)
 
@@ -37,9 +39,11 @@ I'm a student at HEAJ in DWT 🏴‍☠️
 
 ## Interests/Future Learnings
 
+[![SASS](https://img.shields.io/badge/sass-cf679a?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![PHP](https://img.shields.io/badge/php-7A86B8.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/mysql-005d88.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Wordpress](https://img.shields.io/badge/wordpress-00769D.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
+[![Vuejs](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
 
 ---
 
