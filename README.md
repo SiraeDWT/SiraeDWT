@@ -30,6 +30,7 @@ I'm a student at HEAJ in DWT 🏴‍☠️
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849b9?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 [![FileZilla](https://img.shields.io/badge/FileZilla-b20000.svg?style=for-the-badge&logo=filezilla&logoColor=white)](https://filezilla-project.org/)
 [![OVH](https://img.shields.io/badge/OVH-264670.svg?style=for-the-badge&logo=ovh&logoColor=white)](https://www.ovhcloud.com)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-70a597.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/blog/chatgpt)
 
 ## Currently Learning
 
