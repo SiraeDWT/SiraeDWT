@@ -3,8 +3,10 @@
 ---
 
 # 🤝 Welcome
-Hi There, I'm Dylan a.k.a. Sirae 👋 I'm a developer like most people on this platform 😄\
-I'm a student at HEAJ in DWT 🏴‍☠️
+Hi&#8239;! My name is Dylan Vercalsteren a.k.a. Sirae 👋 I’m Front-End Developer and more generally, Web Designer 😄  
+I’m student at Haute&nbsp;École Albert&nbsp;Jacquard (HEAJ) in Design&nbsp;Web&nbsp;Transmedia (DWT) 🏴‍☠️  
+
+If you want to check my work, you can check out my portfolio&nbsp;: https://dylan-vercalsteren.be/
 
 ## Networks
 
@@ -26,6 +28,7 @@ I'm a student at HEAJ in DWT 🏴‍☠️
 [![Powershell](https://img.shields.io/badge/Powershell-%23121011.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://en.wikipedia.org/wiki/Windows_PowerShell)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Figma](https://img.shields.io/badge/Figma-9d56f7.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Photoshop](https://img.shields.io/badge/Photoshop-31a8ff.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/be_en/products/photoshop/landpa.html?gclid=Cj0KCQiAoeGuBhCBARIsAGfKY7xKxz6jZM0BCp6-AJjtogPa-ZLF6CSEg76JBJgTua2jR08Te5nM4s4aAgryEALw_wcB&mv=search&mv=search&mv2=paidsearch&sdid=2XBSBWBF&ef_id=Cj0KCQiAoeGuBhCBARIsAGfKY7xKxz6jZM0BCp6-AJjtogPa-ZLF6CSEg76JBJgTua2jR08Te5nM4s4aAgryEALw_wcB:G:s&s_kwcid=AL!3085!3!341214949579!e!!g!!photoshop!1438212189!56311763455&gad_source=1)
 [![Illustrator](https://img.shields.io/badge/Illustrator-F79500.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/be_en/products/illustrator/campaign/pricing.html?gclid=Cj0KCQiAoeGuBhCBARIsAGfKY7z8wt7GjHzpiX_gJ66KYyaTmavKeFg_ZENRrhpo537d6fUHdd1R1fgaAkF8EALw_wcB&mv=search&mv=search&mv2=paidsearch&sdid=GMCWY69B&ef_id=Cj0KCQiAoeGuBhCBARIsAGfKY7z8wt7GjHzpiX_gJ66KYyaTmavKeFg_ZENRrhpo537d6fUHdd1R1fgaAkF8EALw_wcB:G:s&s_kwcid=AL!3085!3!600520565901!e!!g!!illustrator!1479062541!59972729689&gad_source=1)
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849b9?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
@@ -33,6 +36,7 @@ I'm a student at HEAJ in DWT 🏴‍☠️
 [![OVH](https://img.shields.io/badge/OVH-264670.svg?style=for-the-badge&logo=ovh&logoColor=white)](https://www.ovhcloud.com)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-70a597.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/blog/chatgpt)
 [![Miro](https://img.shields.io/badge/Miro-yellow.svg?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/)
+[![JSON](https://img.shields.io/badge/JSON-323330.svg?style=for-the-badge&logo=json&logoColor=white)](http://www.json.org/json-fr.html)
 
 ## Currently Learning
 
@@ -40,6 +44,7 @@ I'm a student at HEAJ in DWT 🏴‍☠️
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SASS](https://img.shields.io/badge/sass-cf679a?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Canvas](https://img.shields.io/badge/Canvas-1b1b1b.svg?style=for-the-badge&logo=canvas&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas)
 [![Webpack](https://img.shields.io/badge/Webpack-3072B7.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
 
 ## Interests/Future Learnings
@@ -48,6 +53,14 @@ I'm a student at HEAJ in DWT 🏴‍☠️
 [![MySQL](https://img.shields.io/badge/mysql-005d88.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Wordpress](https://img.shields.io/badge/wordpress-00769D.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
 [![Vuejs](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+
+## Already used
+
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-%23239120.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Jinja](https://img.shields.io/badge/jinja-%23239120.svg?style=for-the-badge&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/en/3.1.x/)
+[![Nodejs](https://img.shields.io/badge/node.js-233056.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 ---
 
