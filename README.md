@@ -40,19 +40,19 @@ If you want to check my work, you can check out my portfolio&nbsp;: https://dyla
 
 ## Currently Learning
 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SASS](https://img.shields.io/badge/sass-cf679a?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vuejs](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![PHP](https://img.shields.io/badge/php-7A86B8.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Wordpress](https://img.shields.io/badge/wordpress-00769D.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
 [![Canvas](https://img.shields.io/badge/Canvas-1b1b1b.svg?style=for-the-badge&logo=canvas&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas)
 [![Webpack](https://img.shields.io/badge/Webpack-3072B7.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
 
 ## Interests/Future Learnings
 
-[![PHP](https://img.shields.io/badge/php-7A86B8.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/laravel-f05340.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Blade](https://img.shields.io/badge/blade-f05340.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/11.x/blade)
 [![MySQL](https://img.shields.io/badge/mysql-005d88.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Wordpress](https://img.shields.io/badge/wordpress-00769D.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
-[![Vuejs](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 
 ## Already used
 
