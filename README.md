@@ -18,25 +18,28 @@ If you want to check my work, you can check out my portfolio&nbsp;: https://dyla
  
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SASS](https://img.shields.io/badge/sass-cf679a?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![Markdown](https://img.shields.io/badge/markdown-080808.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://fr.wikipedia.org/wiki/Markdown)
+[![SCSS](https://img.shields.io/badge/scss-cf679a?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/php-7A86B8.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Markdown](https://img.shields.io/badge/markdown-080808.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://fr.wikipedia.org/wiki/Markdown)
 
 ## Tools
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Powershell](https://img.shields.io/badge/Powershell-%23121011.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://en.wikipedia.org/wiki/Windows_PowerShell)
+[![MacOS](https://img.shields.io/badge/MacOS-%23121011.svg?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/macos-sequoia/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-[![Figma](https://img.shields.io/badge/Figma-9d56f7.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Powershell](https://img.shields.io/badge/Powershell-%23121011.svg?style=for-the-badge&logo=zsh&logoColor=white)](https://en.wikipedia.org/wiki/Windows_PowerShell)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![JSON](https://img.shields.io/badge/JSON-323330.svg?style=for-the-badge&logo=json&logoColor=white)](http://www.json.org/json-fr.html)
+[![PHPMYADMIN](https://img.shields.io/badge/phpmyadmin-7A86B8.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
+[![Figma](https://img.shields.io/badge/Figma-9d56f7.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Photoshop](https://img.shields.io/badge/Photoshop-31a8ff.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/be_en/products/photoshop/landpa.html?gclid=Cj0KCQiAoeGuBhCBARIsAGfKY7xKxz6jZM0BCp6-AJjtogPa-ZLF6CSEg76JBJgTua2jR08Te5nM4s4aAgryEALw_wcB&mv=search&mv=search&mv2=paidsearch&sdid=2XBSBWBF&ef_id=Cj0KCQiAoeGuBhCBARIsAGfKY7xKxz6jZM0BCp6-AJjtogPa-ZLF6CSEg76JBJgTua2jR08Te5nM4s4aAgryEALw_wcB:G:s&s_kwcid=AL!3085!3!341214949579!e!!g!!photoshop!1438212189!56311763455&gad_source=1)
 [![Illustrator](https://img.shields.io/badge/Illustrator-F79500.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/be_en/products/illustrator/campaign/pricing.html?gclid=Cj0KCQiAoeGuBhCBARIsAGfKY7z8wt7GjHzpiX_gJ66KYyaTmavKeFg_ZENRrhpo537d6fUHdd1R1fgaAkF8EALw_wcB&mv=search&mv=search&mv2=paidsearch&sdid=GMCWY69B&ef_id=Cj0KCQiAoeGuBhCBARIsAGfKY7z8wt7GjHzpiX_gJ66KYyaTmavKeFg_ZENRrhpo537d6fUHdd1R1fgaAkF8EALw_wcB:G:s&s_kwcid=AL!3085!3!600520565901!e!!g!!illustrator!1479062541!59972729689&gad_source=1)
-[![Insomnia](https://img.shields.io/badge/Insomnia-5849b9?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 [![FileZilla](https://img.shields.io/badge/FileZilla-b20000.svg?style=for-the-badge&logo=filezilla&logoColor=white)](https://filezilla-project.org/)
 [![OVH](https://img.shields.io/badge/OVH-264670.svg?style=for-the-badge&logo=ovh&logoColor=white)](https://www.ovhcloud.com)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-70a597.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/blog/chatgpt)
+[![Insomnia](https://img.shields.io/badge/Insomnia-5849b9?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 [![Miro](https://img.shields.io/badge/Miro-yellow.svg?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/)
-[![JSON](https://img.shields.io/badge/JSON-323330.svg?style=for-the-badge&logo=json&logoColor=white)](http://www.json.org/json-fr.html)
 
 ## Currently Learning
 
@@ -60,6 +63,8 @@ If you want to check my work, you can check out my portfolio&nbsp;: https://dyla
 [![Django](https://img.shields.io/badge/Django-%23239120.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Jinja](https://img.shields.io/badge/jinja-%23239120.svg?style=for-the-badge&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/en/3.1.x/)
+[![Blade](https://img.shields.io/badge/blade-f05340.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/11.x/blade)
+[![MySQL](https://img.shields.io/badge/mysql-005d88.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Nodejs](https://img.shields.io/badge/node.js-233056.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 ---
