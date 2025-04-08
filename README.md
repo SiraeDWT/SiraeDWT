@@ -20,6 +20,7 @@ If you want to check my work, you can check out my portfolio&nbsp;: https://dyla
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SCSS](https://img.shields.io/badge/scss-cf679a?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/php-7A86B8.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Markdown](https://img.shields.io/badge/markdown-080808.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://fr.wikipedia.org/wiki/Markdown)
 
@@ -39,33 +40,28 @@ If you want to check my work, you can check out my portfolio&nbsp;: https://dyla
 [![OVH](https://img.shields.io/badge/OVH-264670.svg?style=for-the-badge&logo=ovh&logoColor=white)](https://www.ovhcloud.com)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-70a597.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/blog/chatgpt)
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849b9?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
-[![Miro](https://img.shields.io/badge/Miro-yellow.svg?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/)
 
 ## Currently Learning
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Vuejs](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
-[![PHP](https://img.shields.io/badge/php-7A86B8.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Wordpress](https://img.shields.io/badge/wordpress-00769D.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
-[![Canvas](https://img.shields.io/badge/Canvas-1b1b1b.svg?style=for-the-badge&logo=canvas&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas)
-[![Webpack](https://img.shields.io/badge/Webpack-3072B7.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
+[![Vite](https://img.shields.io/badge/vite-985cf5?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
+[![Flask](https://img.shields.io/badge/Flask-3aa9be?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
 
 ## Interests/Future Learnings
 
 [![Laravel](https://img.shields.io/badge/laravel-f05340.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Blade](https://img.shields.io/badge/blade-f05340.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/11.x/blade)
-[![MySQL](https://img.shields.io/badge/mysql-005d88.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 
 ## Already used
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-%23239120.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Jinja](https://img.shields.io/badge/jinja-%23239120.svg?style=for-the-badge&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/en/3.1.x/)
+[![Vuejs](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![Wordpress](https://img.shields.io/badge/wordpress-00769D.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
 [![Blade](https://img.shields.io/badge/blade-f05340.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/11.x/blade)
 [![MySQL](https://img.shields.io/badge/mysql-005d88.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Nodejs](https://img.shields.io/badge/node.js-233056.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Webpack](https://img.shields.io/badge/Webpack-3072B7.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
+[![Canvas](https://img.shields.io/badge/Canvas-1b1b1b.svg?style=for-the-badge&logo=canvas&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas)
 
 ---
 
