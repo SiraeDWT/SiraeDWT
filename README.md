@@ -3,10 +3,9 @@
 ---
 
 # 🤝 Welcome
-Hi&#8239;! My name is Dylan Vercalsteren a.k.a. Sirae 👋 I’m Front-End Developer and more generally, Web Designer 😄  
-I’m student at Haute&nbsp;École Albert&nbsp;Jacquard (HEAJ) in Design&nbsp;Web&nbsp;Transmedia (DWT) 🏴‍☠️  
+Hi&#8239;! My name is Dylan 👋 I’m Web Developer and Designer 😄  
 
-If you want to check my work, you can check out my portfolio&nbsp;: https://dylan-vercalsteren.be/
+You can check out my portfolio&nbsp;: https://dylan-vercalsteren.be/
 
 ## Networks
 
