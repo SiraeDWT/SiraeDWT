@@ -1,4 +1,4 @@
-<img align="center" alt="background" src="https://raw.githubusercontent.com/SiraeDWT/SiraeDWT/main/banniere-pirate.png" />
+<img align="center" alt="background" src="https://raw.githubusercontent.com/SiraeDWT/SiraeDWT/main/banniere-techno-1.png" />
 
 ---
 
@@ -64,7 +64,7 @@ You can check out my portfolio&nbsp;: https://dylan-vercalsteren.be/
 
 ---
 
-<img align="center" alt="background" src="https://raw.githubusercontent.com/SiraeDWT/SiraeDWT/main/banniere-dwt.png" />
+<img align="center" alt="background" src="https://raw.githubusercontent.com/SiraeDWT/SiraeDWT/main/banniere-techno-2.png" />
 
 ---
 
