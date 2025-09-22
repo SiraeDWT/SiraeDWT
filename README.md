@@ -4,6 +4,8 @@
 
 # 🤝 Welcome
 Hi&#8239;! My name is Dylan 👋 I’m Web Developer and Designer 😄  
+I got my bachelor's degree from Haute École Albert Jacquard in Belgium.  
+I'm looking to improve my coding skills to have to best level possible
 
 You can check out my portfolio&nbsp;: https://dylan-vercalsteren.be/
 
@@ -16,11 +18,10 @@ You can check out my portfolio&nbsp;: https://dylan-vercalsteren.be/
 ## Languages
  
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SCSS](https://img.shields.io/badge/scss-cf679a?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/php-7A86B8.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Markdown](https://img.shields.io/badge/markdown-080808.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://fr.wikipedia.org/wiki/Markdown)
 
 ## Tools
@@ -40,27 +41,29 @@ You can check out my portfolio&nbsp;: https://dylan-vercalsteren.be/
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-70a597.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/blog/chatgpt)
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849b9?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 
-## Currently Learning
+## Currently Learning / Looking to improve
 
-[![Vite](https://img.shields.io/badge/vite-985cf5?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
-[![Flask](https://img.shields.io/badge/Flask-3aa9be?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Odoo](https://img.shields.io/badge/odoo-8d7088?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Interests/Future Learnings
 
-[![Laravel](https://img.shields.io/badge/laravel-f05340.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![React](https://img.shields.io/badge/react-58c4dc.svg?style=for-the-badge&logo=React&logoColor=white)](https://react.dev/)
 
 ## Already used
 
 [![Django](https://img.shields.io/badge/Django-%23239120.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-3aa9be?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
 [![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Jinja](https://img.shields.io/badge/jinja-%23239120.svg?style=for-the-badge&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/en/3.1.x/)
-[![Vuejs](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![PHP](https://img.shields.io/badge/php-7A86B8.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Wordpress](https://img.shields.io/badge/wordpress-00769D.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
 [![Blade](https://img.shields.io/badge/blade-f05340.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/11.x/blade)
 [![MySQL](https://img.shields.io/badge/mysql-005d88.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Nodejs](https://img.shields.io/badge/node.js-233056.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Vite](https://img.shields.io/badge/vite-985cf5?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 [![Webpack](https://img.shields.io/badge/Webpack-3072B7.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
-[![Canvas](https://img.shields.io/badge/Canvas-1b1b1b.svg?style=for-the-badge&logo=canvas&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas)
 
 ---
 
